@@ -6,6 +6,14 @@ The Flavour Feed is a beginner-friendly recipe website built using **HTML, CSS, 
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try the website here:**
+
+**https://sujitha-2306.github.io/The-Flavour-Feed/**
+
+---
+
 ## ✨ Features
 
 🌎 Explore recipes from **5 countries**
